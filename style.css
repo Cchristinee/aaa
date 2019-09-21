@@ -1,0 +1,13 @@
+/* CSS語法寫在這! 跟HTML不一樣!
+            CLASS選擇器   */
+            body{background-color: antiquewhite;font-family:"微軟正黑體"}
+            .b{font-size: 25px;font-weight:bold;color:burlywood}
+            .c{margin-top: 10px;border:1px dashed;color: burlywood}
+            .d{color: cadetblue}
+            .e{text-decoration: underline}
+    
+            /* ID選擇器 */
+            #del{text-decoration:line-through;}
+    
+            /*標籤名稱選擇器*/
+            span{font-weight: bold}
